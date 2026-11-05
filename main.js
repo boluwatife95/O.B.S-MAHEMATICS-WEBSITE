@@ -335,12 +335,13 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="ty-popup-card">
         <button class="ty-popup-x" aria-label="Close popup" title="Close">✕</button>
         <div class="ty-popup-emoji">🎉🎂🎓</div>
-        <h2 class="ty-popup-title" id="tyPopupTitle">Happy Birthday, Brother Busyi!</h2>
+        <h2 class="ty-popup-title" id="tyPopupTitle">Happy Birthday, Brother Busyi!,Long life and prosperity in good and sound healt in jesus name.</h2>
         <p class="ty-popup-message">
           Thank you so much <strong>brother Busyi</strong> for sponsoring my learning in
-          <strong>Kinplus</strong>. I will forever be grateful.
+          <strong>Kinplus</strong>. I will forever be grateful.so i thought of what to give you as your birthday gift..but i dont have anything...So i decided to make this for you....Though yet to finish it all..Because i will need some of your details..to include there..Thats why
+             And also if theres anything you want me to take away...or add..you can tell me..i will work on it.
           <br><br>
-          <strong>Happy birthday to you! 🎈</strong>
+          <strong>Happy birthday to you once again! 🎈</strong>
         </p>
         <button class="ty-popup-close">Thank You &amp; Continue</button>
       </div>
